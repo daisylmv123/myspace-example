@@ -21,3 +21,4 @@ This project:
 * uses **semantic HTML** markup.
 * is styled with **CSS**.
 * is hosted on **[Github Pages](https://wittenbrock.github.io/toms-myspace-page/)**.
+
